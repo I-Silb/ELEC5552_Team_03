@@ -4,4 +4,4 @@ This repository contains all of the relevant files regarding the design and impl
 
 All Arduino code which was used in either Proteus simulations or in the final prototype demonstration are found in the src folder.
 
-The Proteus design file (created in Proteus 8.6) which contains the final schematic and the PCB layout is located in the proteus folder.
+The Proteus design file (created in Proteus 8.6) which contains the final schematic and the PCB layout is located in the design folder.
